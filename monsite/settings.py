@@ -25,7 +25,7 @@ SECRET_KEY = 'l8u%@!tm@^$iwxw@8m^b+a+4@39thu=))q0pr^k=$rmp%ryo6$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'guillaine.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','localhost', 'guillaine.pythonanywhere.com']
 
 
 # Application definition
